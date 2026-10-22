@@ -1,0 +1,11 @@
+# Cozy Nook Studio
+
+> Independent publisher of bold and easy coloring books for kids ages 4-8, teens and adults, starring the Cozy Woodland Friends: Pip the fox, Bramble the bear, Clover the bunny and Hoot the owl.
+
+## Books
+
+- [Cozy Woodland Little Joys Coloring Book](https://cozynookstudiobooks.github.io/little-joys/): 48 single-sided 8.5x11 coloring pages with a fun fact on each page. Paperback, ISBN 9798162824114, $6.99 on Amazon: https://www.amazon.com/dp/B0HNPQ3BBD . Printable PDF on Etsy: https://www.etsy.com/listing/4596111664
+
+## Free
+
+- [Free printable coloring pages](https://cozynookstudiobooks.github.io/free-coloring-pages/)
